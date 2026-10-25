@@ -13,6 +13,8 @@ oak displays files and folders in a tree structure
 ## tests
 - ok on amd64 Linux/Windows
 
+<img alt="image" src="doc/oak.jpg" />
+
 ## license
 
 Copyright (c) 2026 alexander14k28@gmail.com
